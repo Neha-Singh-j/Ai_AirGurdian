@@ -2,7 +2,7 @@
 
 **Predict. Plan. Protect.** — An AI-powered urban air pollution intelligence platform that helps city administrators take action before pollution becomes dangerous.
 
-![Architecture](docs/ARCHITECTURE.md)
+![Architecture](docs/ARCHITECTURE.md) <----click here to get Architecture Diagram and Details
 
 ## Features
 
